@@ -1,5 +1,4 @@
 package com.api.ProjetoBD.models;
 
-public class AbreModel {
-    
+public class RelatarModel {
 }
