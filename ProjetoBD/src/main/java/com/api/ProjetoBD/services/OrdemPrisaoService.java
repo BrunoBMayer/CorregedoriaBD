@@ -1,4 +1,4 @@
 package com.api.ProjetoBD.services;
 
-public class AbreIdService {
+public class OrdemPrisaoService {
 }

@@ -1,4 +1,4 @@
 package com.api.ProjetoBD.services;
 
-public class AbreService {
+public class AnonimoService {
 }
