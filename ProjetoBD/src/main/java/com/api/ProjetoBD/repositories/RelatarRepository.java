@@ -1,4 +1,4 @@
 package com.api.ProjetoBD.repositories;
 
-public class AbreIdRepository {
+public class RelatarRepository {
 }
